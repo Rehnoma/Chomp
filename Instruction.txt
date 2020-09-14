@@ -1,0 +1,8 @@
+1) Open Terminal/Command Prompt
+2) Change directory to main Chomp folder    //main method is in Chomp.java
+
+3) Enter compile code:
+javac *.java
+
+4) To run, use the code:
+java Chomp
